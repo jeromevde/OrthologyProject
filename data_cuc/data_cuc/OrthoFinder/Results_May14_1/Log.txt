@@ -1,0 +1,25 @@
+2025-05-14 12:27:43 : Started OrthoFinder version 3.0.1b1
+Command Line: /Users/valeriebuyck/miniconda3/envs/orthofinder_compat_env/bin/orthofinder -f ./
+
+WorkingDirectory_Base: /Users/valeriebuyck/Desktop/OrthoFinder2trial/data_cuc/OrthoFinder/Results_May14_1/WorkingDirectory/
+
+Species used: 
+0: 97103.fa
+1: B10.fa
+2: C_hystrix.fa
+3: Charmono.fa
+4: Chayote.fa
+5: ChineseLong_pep_v3.fa
+6: Cmaxima.fa
+7: DHL92.fa
+8: Gy14.fa
+9: L_cylindrica.fa
+10: OHB3.fa
+11: PI183967.fa
+12: Qingpiguo.fa
+13: Snakegourd.fa
+14: USVL1VR-Ls.fa
+15: WCG.fa
+16: WG.fa
+17: cordophanus.fa
+
